@@ -9,6 +9,15 @@
 
 ## Goals
 
+1. Learn the core concept of React.js
+2. Enhance my vanilla Javascript skills through React.js
+3. Create projects for my portfolios.
+
+## Side Quest
+
+I also wanted to practice my HTML and CSS skills so I have a side quest to keep doing them.
+
+
 <!--
 ## Translations
 [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [polski](intl/pl/README.md) - [русский](intl/ru/README-ru.md) - [português do Brasil](intl/pt-br/LEIAME.md) – [deutsch](intl/de/README.md) – [українська](intl/ua/README-ua.md) – [한국어](intl/ko/README-ko.md) – [中文](intl/ch/README.md)

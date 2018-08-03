@@ -4,9 +4,10 @@
 
 **Today's Progress**: Preparation. Setting up my copy of 100DaysOfCode repository.
 
-**Thoughts:** Its been a while since I last use Git, it just mean that I really have problem on my productivity. I joined the 100DayOfCode challenge today for  React.. I want to learn React.js and widen my knowledge on Javascript.
+**Thoughts:**  Joined the 100DayOfCode challenge today for React.js, I wanted to learn React.js and widen my knowledge on Javascript using this framework. I'll set monthly goals so that I can track my progress.
 
-**Link to work:** [Twitter Post #1]()
+
+**Link to work:** [Twitter Post #1 - Day 0: Preparation](https://twitter.com/owaaquino/status/1025171958638436353)
 
 <!-- ### Day 0: August 2, 2018 (Example 1)
 
