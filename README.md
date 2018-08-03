@@ -15,7 +15,9 @@
 
 ## Side Quest
 
-I also wanted to practice my HTML and CSS skills so I have a side quest to keep doing them.
+1. practice my HTML and CSS.
+2. Wanted to learn html5 game development.
+3. CSS Animations
 
 
 <!--

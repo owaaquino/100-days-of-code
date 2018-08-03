@@ -1,13 +1,24 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 2, 2018
+### Day 1: August 4, 2018
+
+**Today's Progress**: Another TODOLIST App. First React project is to create a To Do App.
+
+**Thoughts:**  The never ending to do list app because.. why not? I think it teaches you the basic structure of C.R.U.D for React.
+
+**What I've Learned Today:**
+1. React requires you to start your components name in Uppercase.
+
+**Link to work:** [Twitter Post #1 - Day 0: Preparation]()
+
+### Day 0: August 3, 2018
 
 **Today's Progress**: Preparation. Setting up my copy of 100DaysOfCode repository.
 
 **Thoughts:**  Joined the 100DayOfCode challenge today for React.js, I wanted to learn React.js and widen my knowledge on Javascript using this framework. I'll set monthly goals so that I can track my progress.
 
 
-**Link to work:** [Twitter Post #1 - Day 0: Preparation](https://twitter.com/owaaquino/status/1025171958638436353)
+**Link to work:** [Twitter Post #0 - Day 0: Preparation](https://twitter.com/owaaquino/status/1025171958638436353)
 
 <!-- ### Day 0: August 2, 2018 (Example 1)
 
