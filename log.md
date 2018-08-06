@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 3: August 6, 2018
+
+**Today's Progress**: State Deletion. Created deletion function of the TODOLIST APP
+
+**Thoughts:** Don't be afraid to check your old codes. We don't need to memorize the codes but we need to understand how we use them.
+
+**What I've Learned Today:**
+1. keys props is required when your going to need them on the other function of your project.
+
+**Link to work:** [Twitter Post #4 - Day 3: Deletion]()
+
+### Day 2: August 5, 2018
+
+**Today's Progress**: Add and Display. The first taks is always add and displaying content
+
+**Thoughts:** I think it's really important that we start learning through the simpliest problem first.
+
+**What I've Learned Today:**
+
+
+**Link to work:** [Twitter Post #3 - Day 2: Preparation]()
+
 ### Day 1: August 4, 2018
 
 **Today's Progress**: Another TODOLIST App. First React project is to create a To Do App.
@@ -9,7 +31,7 @@
 **What I've Learned Today:**
 1. React requires you to start your components name in Uppercase.
 
-**Link to work:** [Twitter Post #1 - Day 0: Preparation]()
+**Link to work:** [Twitter Post #2 - Day 1: Another TODOLIST APP](https://twitter.com/owaaquino/status/1025523605789011968)
 
 ### Day 0: August 3, 2018
 
