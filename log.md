@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 5: August 9, 2018
+
+**Today's Progress**: Update. Finish the state update of the to do list.
+
+**Thoughts:**: I don't really understand how state editing / live state editing. I need to learn this more.
+
+**What I've Learned Today:**
+
+
+**Link to work:** [Twitter Post #6 - Day 5: Update](https://twitter.com/owaaquino/status/1027558242132447232)
+
+### Day 4: August 7, 2018
+
+**Today's Progress**: State Live Update. The edit option for the list items.
+
+**Thoughts:**: I need to review how to update state with input boxes.
+
+**What I've Learned Today:**
+
+
+**Link to work:** [Twitter Post #5 - Day 4: Update State](https://twitter.com/owaaquino/status/1026840419005427712)
+
 ### Day 3: August 6, 2018
 
 **Today's Progress**: State Deletion. Created deletion function of the TODOLIST APP
@@ -9,7 +31,7 @@
 **What I've Learned Today:**
 1. keys props is required when your going to need them on the other function of your project.
 
-**Link to work:** [Twitter Post #4 - Day 3: Deletion]()
+**Link to work:** [Twitter Post #4 - Day 3: Deletion](https://twitter.com/owaaquino/status/1026428370920374272)
 
 ### Day 2: August 5, 2018
 
@@ -20,7 +42,7 @@
 **What I've Learned Today:**
 
 
-**Link to work:** [Twitter Post #3 - Day 2: Preparation]()
+**Link to work:** [Twitter Post #3 - Day 2: Preparation](https://twitter.com/owaaquino/status/1026110067953680384)
 
 ### Day 1: August 4, 2018
 
@@ -40,7 +62,7 @@
 **Thoughts:**  Joined the 100DayOfCode challenge today for React.js, I wanted to learn React.js and widen my knowledge on Javascript using this framework. I'll set monthly goals so that I can track my progress.
 
 
-**Link to work:** [Twitter Post #0 - Day 0: Preparation](https://twitter.com/owaaquino/status/1025171958638436353)
+**Link to work:** [Twitter Post #1 - Day 0: Preparation](https://twitter.com/owaaquino/status/1025171958638436353)
 
 <!-- ### Day 0: August 2, 2018 (Example 1)
 
