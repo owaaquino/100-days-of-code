@@ -1,5 +1,147 @@
 # 100 Days Of Code - Log
 
+### Day 25: September 14, 2018
+
+**Today's Progress**: Finished my TEMPERATURE CONVERTER PROJECT
+
+**Thoughts:**: Finishing my 2nd React project was so exciting and can't wait to the next project.
+
+**What I've Learned Today:** I've learned that I can make more usable functions
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 23 & 24: August 11, 2018
+
+**Today's Progress**: Finally been able to make the convertion work in my project.
+
+**Thoughts:**: Really been trying so hard on how to impliment the components. I know it's not the best answer. But it works.
+
+**What I've Learned Today:** Work with the first thing/solution you think of. Then improve on it.
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 22: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 21: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 20: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 19: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 18: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 17: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 16: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 15: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 14: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 13: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+### Day 12: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+
+### Day 11: August 20, 2018
+
+**Today's Progress**:
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Twitter Post #11 - Day 5: Update]()
+
+
 ### Day 10: August 20, 2018
 
 **Today's Progress**: Done. Today I was able to finish my first project for the challenge.
