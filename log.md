@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 26: September 16, 2018
+
+**Today's Progress**: Follow along CSS3 Tutorials
+
+**Thoughts:**: It's really great learning new things and tricks with especially with CSS3.
+
+**What I've Learned Today:**
+
+**Link to work:** [Day 26 Update](https://twitter.com/owaaquino/status/1041204883276279808)
+
 ### Day 25: September 14, 2018
 
 **Today's Progress**: Finished my TEMPERATURE CONVERTER PROJECT
@@ -8,9 +18,9 @@
 
 **What I've Learned Today:** I've learned that I can make more usable functions
 
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
+**Link to work:** [Day 25: Update](https://twitter.com/owaaquino/status/1040553833552785409)
 
-### Day 23 & 24: August 11, 2018
+### Day 23 & 24: Sepmtember 10, 2018
 
 **Today's Progress**: Finally been able to make the convertion work in my project.
 
@@ -18,9 +28,79 @@
 
 **What I've Learned Today:** Work with the first thing/solution you think of. Then improve on it.
 
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
+**Link to work:** [Day 23 & 24: Update](https://twitter.com/owaaquino/status/1039079959698927616)
 
-### Day 22: August 20, 2018
+### Day 22: September 7, 2018
+
+**Today's Progress**: Celsius and Fahrenheit
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Day 22: Update](https://twitter.com/owaaquino/status/1038029020690956289)
+
+### Day 21: September 6, 2018
+
+**Today's Progress**: THE TEMPERATURE CONVERTER
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Day 21: Update](https://twitter.com/owaaquino/status/1037653451491012610)
+
+### Day 20: September 4, 2018
+
+**Today's Progress**: FreecodeCamp React Challenge
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Day 20: Update](https://twitter.com/owaaquino/status/1036945607967956992)
+
+### Day 18 & 19: September 3, 2018
+
+**Today's Progress**: React Cheatsheets
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Day 18 & 19: Update](https://twitter.com/owaaquino/status/1036556851385516032)
+
+### Day 17: September 1, 2018
+
+**Today's Progress**: Reacht Cheatsheets
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Day 17: Update](https://twitter.com/owaaquino/status/1035915520506130432)
+
+### Day 16: August 30, 2018
+
+**Today's Progress**: Add and Minus
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Day 16: Update](https://twitter.com/owaaquino/status/1035139557052768256)
+
+### Day 15: August 28, 2018
+
+**Today's Progress**:Refactor TODO APP #1
+
+**Thoughts:**:
+
+**What I've Learned Today:**
+
+**Link to work:** [Day 15: Refactor TODO APP](https://twitter.com/owaaquino/status/1034414296086667264)
+
+### Day 14: August 26, 2018
 
 **Today's Progress**:
 
@@ -28,87 +108,7 @@
 
 **What I've Learned Today:**
 
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
-
-### Day 21: August 20, 2018
-
-**Today's Progress**:
-
-**Thoughts:**:
-
-**What I've Learned Today:**
-
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
-
-### Day 20: August 20, 2018
-
-**Today's Progress**:
-
-**Thoughts:**:
-
-**What I've Learned Today:**
-
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
-
-### Day 19: August 20, 2018
-
-**Today's Progress**:
-
-**Thoughts:**:
-
-**What I've Learned Today:**
-
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
-
-### Day 18: August 20, 2018
-
-**Today's Progress**:
-
-**Thoughts:**:
-
-**What I've Learned Today:**
-
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
-
-### Day 17: August 20, 2018
-
-**Today's Progress**:
-
-**Thoughts:**:
-
-**What I've Learned Today:**
-
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
-
-### Day 16: August 20, 2018
-
-**Today's Progress**:
-
-**Thoughts:**:
-
-**What I've Learned Today:**
-
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
-
-### Day 15: August 20, 2018
-
-**Today's Progress**:
-
-**Thoughts:**:
-
-**What I've Learned Today:**
-
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
-
-### Day 14: August 20, 2018
-
-**Today's Progress**:
-
-**Thoughts:**:
-
-**What I've Learned Today:**
-
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
+**Link to work:** [Day 14: Update](https://twitter.com/owaaquino/status/1033390708906909696)
 
 ### Day 13: August 20, 2018
 
