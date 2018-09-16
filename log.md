@@ -112,34 +112,34 @@
 
 ### Day 13: August 20, 2018
 
-**Today's Progress**:
+**Today's Progress**: More Compoenents
 
 **Thoughts:**:
 
 **What I've Learned Today:**
 
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
+**Link to work:** [Day 13: Update](https://twitter.com/owaaquino/status/1032960762841423872)
 
-### Day 12: August 20, 2018
+### Day 12: August 22, 2018
 
-**Today's Progress**:
+**Today's Progress**: React Components
+
+**Thoughts:**: Started to create a reusable components for future use.
+
+**What I've Learned Today:**
+
+**Link to work:** [Day 12: Update](https://twitter.com/owaaquino/status/1032267712704049153)
+
+
+### Day 11: August 21, 2018
+
+**Today's Progress**: Light Work
 
 **Thoughts:**:
 
 **What I've Learned Today:**
 
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
-
-
-### Day 11: August 20, 2018
-
-**Today's Progress**:
-
-**Thoughts:**:
-
-**What I've Learned Today:**
-
-**Link to work:** [Twitter Post #11 - Day 5: Update]()
+**Link to work:** [Day 11: Light Work](https://twitter.com/owaaquino/status/1031839423954997249)
 
 
 ### Day 10: August 20, 2018
